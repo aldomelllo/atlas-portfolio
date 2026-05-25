@@ -169,7 +169,7 @@ Em `style.css`, linha 7:
 | Nome             | Papel          |
 |------------------|----------------|
 | Aldo Mello       | Sócio Fundador |
-| Kaio Vasconcelos | Sócio          |
+| Kaio Vasconcelos | Sócio Fundador |
 
 ---
 
